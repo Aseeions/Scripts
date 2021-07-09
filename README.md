@@ -1,16 +1,7 @@
-## Scripts
-Some test scripts written by myself.
-		
-#### 1.卡方分箱
+#### ChiSquare
 直接运行main即可（没有添加单调性判定）；
+v2.0 & v3.0 相差不大；
+v4.0 & v5.0 相差不大；
 
-#### 2.遗传算法
+#### GeneticAlgorithm_v2.0
 直接运行main即可，可通过修改适应度等式、个体数量、迭代次数、基因取值范围、交叉概率、突变概率、基因数量等参数，重新自定义算法；
-
-
-
-
-
-
-
-
